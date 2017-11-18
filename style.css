@@ -1,0 +1,147 @@
+/* defaults */
+
+body {
+  margin: 0;
+  font-family: "Gill Sans", "Gill Sans MT", "Helvetica Neue", "Segoe UI", Calibri, sans-serif;
+  font-weight: 200;
+  font-size: 90%;
+  line-height: 135%;
+  text-rendering: optimizeLegibility;
+  color: #000;
+}
+
+h1, h2, h3 {
+  font-weight: 300;
+}
+
+h1 {
+  font-size: 200%;
+  color: #444;
+}
+
+h2 {
+  font-size: 150%;
+  color: #777;
+}
+
+h3 {
+  font-size: 100%;
+  color: #666;
+}
+
+a, a:visited {
+  text-decoration: none;
+  color: steelblue;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+b, strong {
+  font-weight: 600;
+}
+
+
+/* layout */
+
+header, main {
+  max-width: 42em;
+  margin: 0 auto;
+}
+
+h1, article {
+  margin: 0;
+  padding: 1em 10%;
+}
+
+
+/* header */
+
+h1 {
+  height: 0.7em;
+  margin-top: 1em;
+}
+
+h1 a, h1 a:visited {
+  color: #444;
+}
+
+h1 a#hash {
+  display: none;
+  font-size: 80%;
+  font-weight: 200;
+}
+
+h1 a#hash, h1 a#hash:visited {
+  color: powderblue;
+}
+
+h1 a#hash span, h1 a#hash:visited span {
+  color: lightsteelblue;
+}
+
+h1 a#hash:hover {
+  text-decoration: none;
+}
+
+h1 a#hash:hover span {
+  text-decoration: underline;
+}
+
+
+/* main */
+
+h2 {
+  position: relative;
+  margin: 0;
+}
+
+h3 {
+  margin-top: 0;
+}
+
+h2 a, h2 a:visited {
+  color: #aaa;
+}
+
+img {
+  width: 100%;
+  margin: 1em 0;
+}
+
+.no-js .tags {
+  display: none;
+}
+
+.tags {
+  display: inline;
+  padding: 0;
+}
+
+.tags li {
+  display: inline-block;
+  margin-right: 0.4em;
+  list-style-type: none;
+}
+
+.tags li:before {
+  content: " · ";
+  color: #aaa;
+}
+
+.tags a, .tags a:visited {
+  color: powderblue;
+}
+
+.tags a span, .tags a:visited span {
+  color: lightsteelblue;
+}
+
+.tags a:hover {
+  text-decoration: none;
+}
+
+.tags a:hover span {
+  text-decoration: underline;
+}
