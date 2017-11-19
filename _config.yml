@@ -1,5 +1,11 @@
 github: [metadata]
 name: divB Zero
 description: Finance, machine learning, async Python and more
+author:
+  name: Chris Lei
+  email: chris@divbzero.com
+  uri: https://divbzero.com
 permalink: /:year/:month/:title.html
 repository: divbzero/divbzero
+gems:
+- jekyll-feed
