@@ -29,6 +29,13 @@ h3 {
   color: #666;
 }
 
+h6 {
+  font-size: 100%;
+  font-style: italic;
+  font-weight: 200;
+  color: #555;
+}
+
 fieldset {
   padding: 0;
   border: 0;
@@ -97,7 +104,7 @@ header, main, footer {
   margin: 0 auto;
 }
 
-h1, article, form {
+h1, h6, article, form {
   margin: 0;
   padding: 1em 10%;
 }
@@ -139,6 +146,12 @@ h1 a#hash:hover {
 
 h1 a#hash:hover span {
   text-decoration: underline;
+}
+
+h6 {
+  margin-top: -1em;
+  padding-top: 0;
+  padding-bottom: 2em;
 }
 
 

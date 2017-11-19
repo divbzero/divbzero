@@ -1,4 +1,5 @@
 github: [metadata]
 name: divB Zero
+description: Finance, machine learning, async Python and more
 permalink: /:year/:month/:title.html
 repository: divbzero/divbzero
