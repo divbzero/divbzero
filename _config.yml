@@ -5,6 +5,7 @@ author:
   name: Chris Lei
   email: chris@divbzero.com
   uri: https://divbzero.com
+url: https://divbzero.com
 permalink: /:year/:month/:title.html
 repository: divbzero/divbzero
 gems:
