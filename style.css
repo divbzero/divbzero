@@ -29,11 +29,33 @@ h3 {
   color: #666;
 }
 
+h4 {
+  margin-top: 3em;
+  margin-bottom: 1em;
+  font-size: 120%;
+  font-weight: 400;
+  color: #222;
+}
+
 h6 {
   font-size: 100%;
   font-style: italic;
   font-weight: 200;
   color: #555;
+}
+
+blockquote {
+  padding: 0.2em 1.4em;
+  border-left: thick solid lightgray;
+  margin: 1em 0;
+}
+
+blockquote p {
+  margin: 0.7em 0;
+}
+
+hr {
+  margin: 1.4em 0;
 }
 
 fieldset {
