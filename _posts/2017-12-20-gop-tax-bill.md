@@ -4,11 +4,9 @@ title: GOP Tax Bill Favors the Rich and Married
 tags: government tax data
 ---
 
-After months of back and forth we finally have a full GOP tax bill on the table — reconciled between House and Senate and ready for a final vote.
+What will be the actual impact of the GOP tax bill on what taxpayers owe?
 
-Putting aside corporations for now, how would the GOP tax bill impact what taxpayers pay in **personal** income tax?
-
-> **tl;dr** If your rich and married — you're in luck!
+The charts below show the *personal income tax* you’ll pay depending on your filing status and income — assuming that you have no children or other dependents and take the standard deduction.
 
 <link rel="stylesheet" href="/taxman/nv.d3.css">
 
@@ -138,34 +136,13 @@ Putting aside corporations for now, how would the GOP tax bill impact what taxpa
   renderChart('household');
 </script>
 
----
+The charts reveal particularly large tax cuts for married couples whether they file jointly or separately. In addition, those tax cuts grow substantially larger for couples with higher incomes.
 
-The charts above show how much **personal** income tax you would owe depending on your filing status and your income, assuming that you have no children or other dependents and that you take the standard deduction.
-
-> Feel free to [adjust the chart](/taxman) to fit your tax situation, or [view the source code](https://github.com/divbzero/taxman) that generates each chart.
-
-The difference in tax paid under the new tax bill would arise from:
-
-* **Higher standard deduction.** Far fewer taxpayers would itemize their deductions: It would take a lot of itemized deductions to exceed the higher standard deduction.
-* **Elimination of exemptions.** This would partly offset the higher standard deduction.
-* **Lower tax rates.** A revamped set of tax brackets and marginal tax rates.
-
-Three things jump out from the charts:
-
-1. The final version of the tax bill follows the Senate version very closely.
-2. The new tax bill gives particularly large tax cuts to married couples, whether they file jointly or separately.
-3. Among married couples, the tax cuts grow larger for higher incomes.
-
-In short, the tax bill particularly favors *rich married couples*.
+In short — if you’re rich and married, you’re in luck!
 
 ---
 
-*For more on the tax bill, NPR looks into [how specific provisions would affect you](https://www.npr.org/2017/12/15/571258698/chart-how-the-new-version-of-the-republican-tax-bill-would-affect-you), while the Tax Foundation provides a deeper analysis of the [long-term economic impact](https://taxfoundation.org/final-tax-cuts-and-jobs-act-details-analysis/).*
+*For more on the tax bill, read about [how specific provisions will affect you](https://www.npr.org/2017/12/15/571258698/chart-how-the-new-version-of-the-republican-tax-bill-would-affect-you), [long-term economic effects](https://taxfoundation.org/final-tax-cuts-and-jobs-act-details-analysis/), and [the impact of the new territorial tax system](https://www.aboveavalon.com/notes/2017/12/12/the-end-to-apples-cash-dilemma).*
 
-*Though we focused on personal income tax, the tax bill would also have significant impact on **corporate** income tax, including:*
-
-* ***Shifting to a <u>territorial</u> tax system.** US corporations would no longer be taxed at the full corporate tax rate for income made outside of the country.*
-* ***Lower tax rates.** The top marginal rate for US corporations would decrease from 35% to 21%.*
-
-*The territorial tax system would have notable effects on how corporations do business. A clear example can be found in Above Avalon’s analysis of the [tax bill’s impact on Apple’s cash situation](https://www.aboveavalon.com/notes/2017/12/12/the-end-to-apples-cash-dilemma).*
+*Also feel free to [adjust the chart](/taxman) to fit your tax situation or [view the underlying code](https://github.com/divbzero/taxman).*
 
