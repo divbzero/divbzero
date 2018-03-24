@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/divbzero
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://divbzero.com
+  * I am divbzero (https://keybase.io/divbzero) on keybase.
+  * I have a public key ASDMqC5fmv2OJOpARGDJ9B3zC5wXYaq0aBKl5L9NrT-AOQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120cca82e5f9afd8e24ea404460c9f41df30b9c1761aab46812a5e4bf4dad3f80390a",
+      "host": "keybase.io",
+      "kid": "0120cca82e5f9afd8e24ea404460c9f41df30b9c1761aab46812a5e4bf4dad3f80390a",
+      "uid": "350bcc082dc859fff28bb4bcf24a3c19",
+      "username": "divbzero"
+    },
+    "merkle_root": {
+      "ctime": 1521911452,
+      "hash": "0b24454b5a87356ca003fd5d9601dd0b86f1724f45388123b0b3698dca2cb7233fc7df86e528917af2d3d24f9784d2cc8113ce491a3c6368ed7ecc3355434e32",
+      "hash_meta": "10dd4a9763186378c044d56a8435dc921a4804c3d72e00465763fb4f3a12aa7c",
+      "seqno": 2283137
+    },
+    "service": {
+      "hostname": "divbzero.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.45"
+  },
+  "ctime": 1521911486,
+  "expire_in": 504576000,
+  "prev": "73549fbe359d079a1d705a9db66b4eebf05708935d8fa8ff47868c272e825470",
+  "seqno": 34,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgzKguX5r9jiTqQERgyfQd8wucF2GqtGgSpeS/Ta0/gDkKp3BheWxvYWTFA0V7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwY2NhODJlNWY5YWZkOGUyNGVhNDA0NDYwYzlmNDFkZjMwYjljMTc2MWFhYjQ2ODEyYTVlNGJmNGRhZDNmODAzOTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwY2NhODJlNWY5YWZkOGUyNGVhNDA0NDYwYzlmNDFkZjMwYjljMTc2MWFhYjQ2ODEyYTVlNGJmNGRhZDNmODAzOTBhIiwidWlkIjoiMzUwYmNjMDgyZGM4NTlmZmYyOGJiNGJjZjI0YTNjMTkiLCJ1c2VybmFtZSI6ImRpdmJ6ZXJvIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTIxOTExNDUyLCJoYXNoIjoiMGIyNDQ1NGI1YTg3MzU2Y2EwMDNmZDVkOTYwMWRkMGI4NmYxNzI0ZjQ1Mzg4MTIzYjBiMzY5OGRjYTJjYjcyMzNmYzdkZjg2ZTUyODkxN2FmMmQzZDI0Zjk3ODRkMmNjODExM2NlNDkxYTNjNjM2OGVkN2VjYzMzNTU0MzRlMzIiLCJoYXNoX21ldGEiOiIxMGRkNGE5NzYzMTg2Mzc4YzA0NGQ1NmE4NDM1ZGM5MjFhNDgwNGMzZDcyZTAwNDY1NzYzZmI0ZjNhMTJhYTdjIiwic2Vxbm8iOjIyODMxMzd9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiZGl2Ynplcm8uY29tIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuNDUifSwiY3RpbWUiOjE1MjE5MTE0ODYsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiNzM1NDlmYmUzNTlkMDc5YTFkNzA1YTlkYjY2YjRlZWJmMDU3MDg5MzVkOGZhOGZmNDc4NjhjMjcyZTgyNTQ3MCIsInNlcW5vIjozNCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxECQ6A2Q1HB2TnWVLbSpfRN4idMhpS0cYYwSizynPSdrsjB0X2cGuGud2DkG18xYDlgd8H1bze4yz9Ip5ic4dy4HqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgusQRydHt3NG4Gz9kWDGHTpnfsMUCX+lef2xfCGUAIbejdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/divbzero
+
+==================================================================
