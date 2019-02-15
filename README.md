@@ -1,5 +1,5 @@
 divB Zero
 ===
 
-*Finance, machine learning, async Python and more*
+*Web performance, data visualization, and more*
 
