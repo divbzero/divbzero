@@ -9,21 +9,21 @@
 <!--[if lt IE 9]><script src=/html5shiv.js></script><![endif]-->
 
 <script>
+  var _paq = window._paq || []
+  _paq.push(['setDoNotTrack', true])
+  _paq.push(['setDocumentTitle', document.title])
+  _paq.push(['setDomains', '*.divbzero.com'])
+  _paq.push(['setCookieDomain', '*.divbzero.com'])
+  _paq.push(['enableLinkTracking'])
+  _paq.push(['enableHeartBeatTimer'])
+  _paq.push(['trackPageView'])
   ;(function (window, document) {
-    var url = '//divbzero.innocraft.cloud/'
-    var _paq = _paq || []
+    var url = '//analytics.divbzero.com/'
+    _paq.push(['setTrackerUrl', url + 'api.php'])
     _paq.push(['setSiteId', '1'])
-    _paq.push(['setDoNotTrack', true])
-    _paq.push(['setDocumentTitle', document.title])
-    _paq.push(['setDomains', '*.divbzero.com'])
-    _paq.push(['setCookieDomain', '*.divbzero.com'])
-    _paq.push(['setTrackerUrl', url + 'piwik.php'])
-    _paq.push(['enableLinkTracking'])
-    _paq.push(['enableHeartBeatTimer'])
-    _paq.push(['trackPageView'])
     var script = document.createElement('script')
     script.async = script.defer = true
-    script.src = url + 'piwik.js'
+    script.src = url + 'api.js'
     document.head.insertBefore(script, document.scripts[0])
   })(window, document)
 </script>
@@ -71,4 +71,4 @@
   </form>
 </footer>
 
-<noscript><img src=//divbzero.innocraft.cloud/piwik.php?idsite=1&rec=1 style=border:0 alt=""></noscript>
+<noscript><img src=//analytics.divbzero.com/api.php?idsite=1&rec=1 style=border:0 alt=""></noscript>
